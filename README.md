@@ -109,9 +109,13 @@ websocket测试网址
 
 如果你觉得这个项目对你有帮助，并且情况允许的话，可以给我一点点支持，总之非常感谢支持～
 
-微信 WeChat Pay
+微信
 
-支付宝 Alipay
+![WeChat Pay](https://github.com/silencesmile/chatgpt-service/blob/main/doc/wechatPay.png)
+
+支付宝
+
+![Alipay](https://github.com/silencesmile/chatgpt-service/blob/main/doc/aliPay.png)
 
 ## License
 
