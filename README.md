@@ -1,8 +1,10 @@
 # chatgpt-websocket是一个gpt对话模型的流式服务
 
+chatgpt对话服务 https://github.com/silencesmile/chatgpt-service
+
 ## 安装
 
-###Python版本
+### Python版本
     3.8及以上
 
 使用 pip 进行安装模块
@@ -102,3 +104,15 @@ websocket测试网址
         "contents": "拥"
       }
     }
+
+## 赞助
+
+如果你觉得这个项目对你有帮助，并且情况允许的话，可以给我一点点支持，总之非常感谢支持～
+
+微信 WeChat Pay
+
+支付宝 Alipay
+
+## License
+
+公众号 © 阿三先生
