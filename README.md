@@ -2,6 +2,8 @@
 
 chatgpt对话服务 https://github.com/silencesmile/chatgpt-service
 
+文章说明：https://mp.weixin.qq.com/s/CuaNtOzkB0da4Cc7dD85Xg
+
 ## 安装
 
 ### Python版本
